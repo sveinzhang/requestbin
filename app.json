@@ -1,8 +1,8 @@
 {
-  "name": "requestbin",
-  "description": "Inspect HTTP requests. Debug webhooks.",
+  "name": "requestbin中文版",
+  "description": "HTTP请求、回调检查，调试webhook.",
   "website": "http://requestb.in/",
-  "repository": "https://github.com/Runscope/requestbin",
+  "repository": "https://github.com/sveinzhang/requestbin",
   "logo": "http://requestb.in/static/img/logo-2x.png",
   "keywords": ["python"],
   "env": {
